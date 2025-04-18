@@ -84,7 +84,7 @@ button {
 
 .account-links {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     gap: 15px;
     width: 100%;
     align-items: center;
